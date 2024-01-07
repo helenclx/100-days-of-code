@@ -30,10 +30,18 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 **Link to work:** [Google.com clone](https://scrimba.com/scrim/cob6547d38a8c3463f8e30440)
 
-### Day 4: 6 january 2024. Saturday
+### Day 4: 6 January 2024. Saturday
 
-**TOday's Progress**:
+**Today's Progress:**
 - Completed and submitted [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)’s [Birthdays](https://cs50.harvard.edu/x/2024/psets/9/birthdays/) problem.
 - Set up [my own GitHub repository](https://github.com/helenclx/100-days-of-code) for the #100DaysOfCode challenge.
 
 **Thoughts:** It was rather challenging to go back to CS50x and do its assignments after taking a break form the course for a while. My SQL and Flask knowledge got rusty due to rarely using them.
+
+### Day 5: 7 January 2024. Sunday
+
+**Today's Progress:** Built a digital business card as part of Module 2 of Scrimba Frontend Developer Career Path. I also did the suggested stretch goals, including adding border radius, shadows, hover effects and animations.
+
+**Thoughts:** This was a great opportunity to practice and refresh my CSS knowledge and skills. I learned tips to write a good image alt text and the trick to use clock direction to memorise margin and padding shorthand with four values: top, right, bottom, left.
+
+**Link to work:** [My business card](https://scrimba.com/scrim/co68140b3a8bf9854c2346afa)
