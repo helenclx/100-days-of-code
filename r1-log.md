@@ -45,3 +45,9 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** This was a great opportunity to practice and refresh my CSS knowledge and skills. I learned tips to write a good image alt text and the trick to use clock direction to memorise margin and padding shorthand with four values: top, right, bottom, left.
 
 **Link to work:** [My business card](https://scrimba.com/scrim/co68140b3a8bf9854c2346afa)
+
+### Day 6: 8 January 2024.Monday
+
+**Today's Progress:** Started freeCodeCamp’s Learn Form Validation by Building a Calorie Counter course. Did Steps 1 to 50.
+
+**Thoughts:** This was a great opportunity to practice writing HTML forms, working with strings in JavaScript, and using Regular Expressions.
