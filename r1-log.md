@@ -14,6 +14,8 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 **Link to work:** [My customised web page for Scrimba Frontend Career Path course](https://scrimba.com/scrim/co41b4b21b8388a90444a3a3d)
 
+---
+
 ### Day 2: 4 January 2024. Thursday
 
 **Today's Progress**: Started Module 2 of Scrimba Frontend Developer Career Path and completed “Build & Deploy Your First Website”.
@@ -21,6 +23,8 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** This was an opportunity to refresh my skill and knowledge of basic HTML, including concepts such as tags, nesting, document structures, etc.
 
 **Link to work:** [Personal Website for Scrimba Frontend Career Path course](https://scrimba.com/scrim/coc334aa7b1a1bdbfd230943f)
+
+---
 
 ### Day 3: 5 January 2024. Friday
 
@@ -30,6 +34,8 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 **Link to work:** [Google.com clone](https://scrimba.com/scrim/cob6547d38a8c3463f8e30440)
 
+---
+
 ### Day 4: 6 January 2024. Saturday
 
 **Today's Progress:**
@@ -37,6 +43,8 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 - Set up [my own GitHub repository](https://github.com/helenclx/100-days-of-code) for the #100DaysOfCode challenge.
 
 **Thoughts:** It was rather challenging to go back to CS50x and do its assignments after taking a break form the course for a while. My SQL and Flask knowledge got rusty due to rarely using them.
+
+---
 
 ### Day 5: 7 January 2024. Sunday
 
@@ -46,8 +54,18 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 **Link to work:** [My business card](https://scrimba.com/scrim/co68140b3a8bf9854c2346afa)
 
-### Day 6: 8 January 2024.Monday
+---
+
+### Day 6: 8 January 2024. Monday
 
 **Today's Progress:** Started freeCodeCamp’s Learn Form Validation by Building a Calorie Counter course. Did Steps 1 to 50.
 
 **Thoughts:** This was a great opportunity to practice writing HTML forms, working with strings in JavaScript, and using Regular Expressions.
+
+---
+
+### Day 7: 9 January 2024. Tuesday
+
+**Today's Progress:** Completed freeCodeCamp’s Learn Form Validation by Building a Calorie Counter course, by doing Steps 51 to 94.
+
+**Thoughts:** This was the first time I learned about and used the `insertAdjacentHTML()` method and the `Number` constructor in JavaScript.
