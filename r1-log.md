@@ -69,3 +69,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed freeCodeCamp’s Learn Form Validation by Building a Calorie Counter course, by doing Steps 51 to 94.
 
 **Thoughts:** This was the first time I learned about and used the `insertAdjacentHTML()` method and the `Number` constructor in JavaScript.
+
+---
+
+### Day 8: 10 January 2024. Wednesday
+
+**Today's Progress:** Built a space exploration site as part of Module 2 of Scrimba’s Frontend Developer Career Path.
+
+**Thoughts:** I got more practice in using CSS to customise web pages, by using fonts, `<span>` element and shadows.
