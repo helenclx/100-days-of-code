@@ -87,3 +87,13 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** I got more practice in using flexbox to style the layout of an webpage. I also learned that ARIA roles and attributes can be used for background images to improve accessibility. However, it is recommended to use background images for decorative purposes only.
 
 **Link to work:** [Birthday gift site](https://scrimba.com/scrim/cod204343a033944138cd02f3)
+
+---
+
+### Day 10: 12 January 2024. Friday
+
+**Today's Progress:** Built a hometown homepage as a solo project of Module 2 of Scrimba’s Frontend Developer Career Path. Therefore, I have completed the module.
+
+**Thoughts:** This project allowed me to practice applying the HTML and CSS knowledge from Module 2 of Scrimba’s Frontend Developer Career Path, including classes, flexbox, padding, margins, colors, background image, etc.
+
+**Link to work:** [Hometown homepage](https://scrimba.com/scrim/cod204343a033944138cd02f3)
