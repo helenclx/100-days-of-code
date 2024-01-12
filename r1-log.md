@@ -96,4 +96,4 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 **Thoughts:** This project allowed me to practice applying the HTML and CSS knowledge from Module 2 of Scrimba’s Frontend Developer Career Path, including classes, flexbox, padding, margins, colors, background image, etc.
 
-**Link to work:** [Hometown homepage](https://scrimba.com/scrim/cod204343a033944138cd02f3)
+**Link to work:** [Hometown homepage](https://scrimba.com/scrim/co86f43eb8ae217e0296cf778)
