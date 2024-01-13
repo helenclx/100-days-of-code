@@ -97,3 +97,13 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** This project allowed me to practice applying the HTML and CSS knowledge from Module 2 of Scrimba’s Frontend Developer Career Path, including classes, flexbox, padding, margins, colors, background image, etc.
 
 **Link to work:** [Hometown homepage](https://scrimba.com/scrim/co86f43eb8ae217e0296cf778)
+
+---
+
+### Day 11: 13 January 2024. Saturday
+
+**Today's Progress:**
+- Viewed the new scrims added to Modules 2 (Web dev basics) and 3 (Making websites interactive) of Scrimba’s Frontend Developer Career Path since I completed the modules previously.
+- Started freeCodeCamp’s Learn Basic String and Array Methods by Building a Music Player. Did Steps 1 to 30.
+
+**Thoughts:** These allowed me to refresh and practice my HTML, CSS and JavaScript skills and knowledge.
