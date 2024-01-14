@@ -107,3 +107,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 - Started freeCodeCamp’s Learn Basic String and Array Methods by Building a Music Player. Did Steps 1 to 30.
 
 **Thoughts:** These allowed me to refresh and practice my HTML, CSS and JavaScript skills and knowledge.
+
+---
+
+### Day 12: 14 January 2024. Sunday
+
+**Today's Progress:** Completed freeCodeCamp’s Learn Basic String and Array Methods by Building a Music Player, by doing Steps 31 to 85.
+
+**Thoughts:** This project allowed me to learn to use the Web Audio API and practice various array and object methods.
