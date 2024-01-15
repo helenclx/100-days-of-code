@@ -115,3 +115,15 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed freeCodeCamp’s Learn Basic String and Array Methods by Building a Music Player, by doing Steps 31 to 85.
 
 **Thoughts:** This project allowed me to learn to use the Web Audio API and practice various array and object methods.
+
+---
+
+### Day 13: 15 January 2024. Monday
+
+**Today's Progress:**
+- Completed freeCodeCamp’s Learn the Date Object by Building a Date Formatter, by doing all 24 steps.
+- Started the freeCodeCamp’s certification project: Build a Palindrome Checker Project. Completed the required functions, but has not styled the page yet.
+
+**Thoughts:**
+- I got to practice using the `Date()` constructor.
+- Previously I had done the palindrome checker certification project for freeCodeCamp’s Legacy JavaScript Algorithms and Data Structures, but in the updated curriculum I would need to revise my code since the project is now built on a web page.
