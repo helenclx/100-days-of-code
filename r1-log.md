@@ -122,7 +122,7 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 **Today's Progress:**
 - Completed freeCodeCamp’s Learn the Date Object by Building a Date Formatter, by doing all 24 steps.
-- Started the freeCodeCamp’s certification project: Build a Palindrome Checker Project. Completed the required functions, but has not styled the page yet.
+- Started the freeCodeCamp certification project: Build a Palindrome Checker Project. Completed the required functions, but has not styled the page yet.
 
 **Thoughts:**
 - I got to practice using the `Date()` constructor.
