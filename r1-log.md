@@ -127,3 +127,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:**
 - I got to practice using the `Date()` constructor.
 - Previously I had done the palindrome checker certification project for freeCodeCamp’s Legacy JavaScript Algorithms and Data Structures, but in the updated curriculum I would need to revise my code since the project is now built on a web page.
+
+---
+
+### Day 14: 16 January 2024. Tuesday
+
+**Today's Progress:** Completed freeCodeCamp certification project: Build a Palindrome Checker Project by finishing the styling of the page. This was the first certification project I have completed for the updated JavaScript Algorithms and Data Structures curriculum.
+
+**Thoughts:** This project allowed me to apply my HTML, CSS and JavaScript skills and knowledge. I am looking forward to the rest of the updated JavaScript Algorithms and Data Structures curriculum.
