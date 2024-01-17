@@ -135,3 +135,15 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed freeCodeCamp certification project: Build a Palindrome Checker Project by finishing the styling of the page. This was the first certification project I have completed for the updated JavaScript Algorithms and Data Structures curriculum.
 
 **Thoughts:** This project allowed me to apply my HTML, CSS and JavaScript skills and knowledge. I am looking forward to the rest of the updated JavaScript Algorithms and Data Structures curriculum.
+
+---
+
+### Day 15: 17 January 2024. Wednesday
+
+**Today's Progress:**
+- Created a GitHub repository for my solo projects for Scrimba’s Frontend Developer Career Path
+- Started the Basketball Scoreboard solo project.
+
+**Thoughts:** I had done Scrimba’s Basketball Scoreboard solo project before having a Scrimba Pro plan. Now I decided to redo the project from scratch since my frontend development knowledge and skills have vastly improved since then.
+
+**Link to work:** [Scrimba Frontend Solo Project repository](https://github.com/helenclx/Scrimba-Frontend-Solo-Projects)
