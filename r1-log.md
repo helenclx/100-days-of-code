@@ -147,3 +147,13 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** I had done Scrimba’s Basketball Scoreboard solo project before having a Scrimba Pro plan. Now I decided to redo the project from scratch since my frontend development knowledge and skills have vastly improved since then.
 
 **Link to work:** [Scrimba Frontend Solo Project repository](https://github.com/helenclx/Scrimba-Frontend-Solo-Projects)
+
+---
+
+### Day 16: 18 January 2024. Thursday
+
+**Today's Progress:** Completed the Basketball Scoreboard solo project for Scrimba’s Frontend Developer Career Path, by redoing the project from scratch after doing the project for the first time last year.
+
+**Thoughts:** I am pleased to see how much my HTML, CSS and JavaScript skills and knowledge have improved since my first attempt of the project.
+
+**Link to work:** [Basketball Scoreboard](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-basketball-scoreboard/)
