@@ -164,7 +164,7 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 **Today's Progress:**
 - Completed freeCodeCamp’s Learn Modern JavaScript Methods By Building Football Team Cards, by completing all 48 steps.
-- Started the Password Generator solo project for Scrimba’s Frontend Developer Career Path, by redoing the project from scratch after doing the project for the first time last year, as well as aiming to achieve the stretch goals of adding options for password length and including numbers or symbols. I have completed the HTML and JavaScript of the project, so it is now functional, but I have yet to style the project.
+- Started the Password Generator solo project for Scrimba’s Frontend Developer Career Path, by redoing the project from scratch after doing the project for the first time last year, as well as aiming to achieve the stretch goals of adding options for password length, copy password and including numbers or symbols. I have completed the HTML and JavaScript of the project, so it is now functional, but I have yet to style the project.
 
 **Thoughts:**
 - I learned the `Object.freeze()` method from the Football Team Cards project from freeCodeCamp.
