@@ -157,3 +157,15 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** I am pleased to see how much my HTML, CSS and JavaScript skills and knowledge have improved since my first attempt of the project.
 
 **Link to work:** [Basketball Scoreboard](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-basketball-scoreboard/)
+
+---
+
+### Day 17: 19 January 2024. Friday
+
+**Today's Progress:**
+- Completed freeCodeCamp’s Learn Modern JavaScript Methods By Building Football Team Cards, by completing all 48 steps.
+- Started the Password Generator solo project for Scrimba’s Frontend Developer Career Path, by redoing the project from scratch after doing the project for the first time last year, as well as aiming to achieve the stretch goals of adding options for password length and including numbers or symbols. I have completed the HTML and JavaScript of the project, so it is now functional, but I have yet to style the project.
+
+**Thoughts:**
+- I learned the `Object.freeze()` method from the Football Team Cards project from freeCodeCamp.
+- For the password generator solo project for Scrimba, I was struggling to figure out how to filter the numbers and symbols from the character array. Eventually I had to refer to a password generator tutorial to categorise the array and convert them into strings. I am glad that I was able to build a functional password generator with setting options.
