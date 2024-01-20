@@ -169,3 +169,13 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:**
 - I learned the `Object.freeze()` method from the Football Team Cards project from freeCodeCamp.
 - For the password generator solo project for Scrimba, I was struggling to figure out how to filter the numbers and symbols from the character array. Eventually I had to refer to a password generator tutorial to categorise the array and convert them into strings. I am glad that I was able to build a functional password generator with setting options.
+
+---
+
+### Day 18: 20 January 2024. Saturday
+
+**Today's Progress:** Completed the Password Generator solo project for Scrimba’s Frontend Developer Career Path.
+
+**Thoughts:** I had been researching on how to create a password generator with HTML, CSS and JavaScript a few times before, but this was my first time successfully building a functional password generator with setting options.
+
+**Link to work:** [Password Generator](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-password-generator/)
