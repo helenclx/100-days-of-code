@@ -179,3 +179,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** I had been researching on how to create a password generator with HTML, CSS and JavaScript a few times before, but this was my first time successfully building a functional password generator with setting options.
 
 **Link to work:** [Password Generator](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-password-generator/)
+
+---
+
+### Day 19: 21 January 2024. Sunday
+
+**Today's Progress:** Completed freeCodeCamp’s Learn localStorage by Building a Todo App by doing all 58 steps.
+
+**Thoughts:** This gave me the opportunity to use localStorage in a JavaScript project.
