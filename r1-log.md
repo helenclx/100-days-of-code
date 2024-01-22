@@ -187,3 +187,15 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed freeCodeCamp’s Learn localStorage by Building a Todo App by doing all 58 steps.
 
 **Thoughts:** This gave me the opportunity to use localStorage in a JavaScript project.
+
+---
+
+### Day 20: 22 January 2024. Monday
+
+**Today's Progress:**
+- Built the Unit Converter solo project for Scrimba’s Frontend Developer Career Path, by revising and refactoring the code of my previous attempt of the project.
+- Started freeCodeCamp’s Learn Recursion by Building a Decimal to Binary Converter. Did Steps 1 to 20.
+
+**Thoughts:** freeCodeCamp’s decimal to binary converter allowed me to refresh my knowledge about binary numbers and helped me improve my unit converter solo project for Scrimba.
+
+**Link to work:** [Unit Converter](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-unit-converter/)
