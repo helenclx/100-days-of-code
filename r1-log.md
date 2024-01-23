@@ -199,3 +199,13 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** freeCodeCamp’s decimal to binary converter allowed me to refresh my knowledge about binary numbers and helped me improve my unit converter solo project for Scrimba.
 
 **Link to work:** [Unit Converter](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-unit-converter/)
+
+---
+
+### Day 21: 23 January 2024. Tuesday
+
+**Today's Progress:**
+- Continued freeCodeCamp’s Learn Recursion by Building a Decimal to Binary Converter. Did Steps 21 to 73.
+- Created [my first pull request](https://github.com/freeCodeCamp/freeCodeCamp/pull/53332) on the GitHub repository of freeCodeCamp’s codebase and curriculum to fix the Step 23 description of the above project course.
+
+**Thoughts:** I got to practice using recursive functions, including the practice of writing base case before the recursion, and learned more about contributing to open-source repository by reading and following contribution guidelines.
