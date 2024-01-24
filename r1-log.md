@@ -209,3 +209,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 - Created [my first pull request](https://github.com/freeCodeCamp/freeCodeCamp/pull/53332) on the GitHub repository of freeCodeCamp’s codebase and curriculum to fix the Step 23 description of the above project course.
 
 **Thoughts:** I got to practice using recursive functions, including the practice of writing base case before the recursion, and learned more about contributing to open-source repository by reading and following contribution guidelines.
+
+---
+
+### Day 22: 24 January 2024. Wednesday
+
+**Today's Progress:** Completed freeCodeCamp’s Learn Recursion by Building a Decimal to Binary Converter. Did Steps 74 to 109.
+
+**Thoughts:** This project gave me a deeper understanding of recursive functions by creating an animation showing the process.
