@@ -217,3 +217,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed freeCodeCamp’s Learn Recursion by Building a Decimal to Binary Converter. Did Steps 74 to 109.
 
 **Thoughts:** This project gave me a deeper understanding of recursive functions by creating an animation showing the process.
+
+---
+
+### Day 23: 25 January 2024. Thursday
+
+**Today's Progress:** Built and completed a roman numeral converter as a certification project for freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum.
+
+**Thoughts:** Previously, I had done the roman numeral converter certification project for freeCodeCamp’s Legacy JavaScript Algorithms and Data Structures curriculum, but in the updated curriculum I would need to revise my code since the project is now built on a web page.
