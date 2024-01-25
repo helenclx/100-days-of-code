@@ -222,6 +222,6 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 ### Day 23: 25 January 2024. Thursday
 
-**Today's Progress:** Built and completed a roman numeral converter as a certification project for freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum.
+**Today's Progress:** Built and completed a Roman numeral converter as a certification project for freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum.
 
-**Thoughts:** Previously, I had done the roman numeral converter certification project for freeCodeCamp’s Legacy JavaScript Algorithms and Data Structures curriculum, but in the updated curriculum I would need to revise my code since the project is now built on a web page.
+**Thoughts:** Previously, I had done the Roman numeral converter certification project for freeCodeCamp’s Legacy JavaScript Algorithms and Data Structures curriculum, but in the updated curriculum I would need to revise my code since the project is now built on a web page.
