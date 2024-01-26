@@ -225,3 +225,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Built and completed a Roman numeral converter as a certification project for freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum.
 
 **Thoughts:** Previously, I had done the Roman numeral converter certification project for freeCodeCamp’s Legacy JavaScript Algorithms and Data Structures curriculum, but in the updated curriculum I would need to revise my code since the project is now built on a web page.
+
+---
+
+### Day 24: 26 January 2024. Friday
+
+**Today's Progress:** Started building We are the Champions solo project for Scrimba’s Frontend Developer Career Path. Had a good start in setting up the input form and adding Google Firebase to the project.
+
+**Thoughts:** It had been a while since I completed Scrimba's Build a Mobile App with Firebase course for free, so I needed to rewatch some of the scrims from the course to refresh my memory of how to add Firebase to a JavaScript project.
