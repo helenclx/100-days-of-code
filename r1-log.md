@@ -233,3 +233,13 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Started building We are the Champions solo project for Scrimba’s Frontend Developer Career Path. Had a good start in setting up the input form and adding Google Firebase to the project.
 
 **Thoughts:** It had been a while since I completed Scrimba's Build a Mobile App with Firebase course for free, so I needed to rewatch some of the scrims from the course to refresh my memory of how to add Firebase to a JavaScript project.
+
+---
+
+### Day 25: 27 January 2024. Saturday
+
+**Today's Progress:** Finished building the We are the Champions solo project for Scrimba’s Frontend Developer Career Path, including the stretch goals of adding From and To input fields, reversing the endorsement message order, and making a desktop version.
+
+**Thoughts:** I am glad to have successfully built a JavaScript app with Firebase to store data.
+
+**Link to work:** [We are the Champions](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-we-are-the-champions/)
