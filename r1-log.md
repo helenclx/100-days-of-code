@@ -243,3 +243,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** I am glad to have successfully built a JavaScript app with Firebase to store data.
 
 **Link to work:** [We are the Champions](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-we-are-the-champions/)
+
+---
+
+### Day 26: 28 January 2024. Sunday
+
+**Today's Progress:** Started freeCodeCamp’s Learn Intermediate CSS by Building a Cat Painting. Did Steps 1 to 42.
+
+**Thoughts:** I got to practice CSS positioning. I did the cat painting project because it has replaced a similar CSS project since I completed  freeCodeCamp's Responsive Web Design curriculum.
