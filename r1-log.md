@@ -251,3 +251,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Started freeCodeCamp’s Learn Intermediate CSS by Building a Cat Painting. Did Steps 1 to 42.
 
 **Thoughts:** I got to practice CSS positioning. I did the cat painting project because it has replaced a similar CSS project since I completed  freeCodeCamp's Responsive Web Design curriculum.
+
+---
+
+### Day 27: 29 January 2024. Monday
+
+**Today's Progress:** Completed freeCodeCamp’s Learn Intermediate CSS by Building a Cat Painting, by doing Steps 43 to 82.
+
+**Thoughts:** The cat painting project allowed me to practice CSS positioning.
