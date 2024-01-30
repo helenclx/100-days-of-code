@@ -264,6 +264,6 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 ### Day 28: 30 January 2024. Tuesday
 
-**Today's Progress:** Completed Learn Basic Algorithmic Thinking by Building a Number Sorter, by doing all 42 steps.
+**Today's Progress:** Completed freeCodeCamp's Learn Basic Algorithmic Thinking by Building a Number Sorter, by doing all 42 steps.
 
 **Thoughts:** Doing this project refreshed my knowledge about sorting algorithm, a concept I previously learned from CS50’s Introduction to Computer Science course.
