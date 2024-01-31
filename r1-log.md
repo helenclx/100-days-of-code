@@ -267,3 +267,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed freeCodeCamp's Learn Basic Algorithmic Thinking by Building a Number Sorter, by doing all 42 steps.
 
 **Thoughts:** Doing this project refreshed my knowledge about sorting algorithm, a concept I previously learned from CS50’s Introduction to Computer Science course.
+
+---
+
+### Day 29: 31 January 2024. Wednesday
+
+**Today's Progress:** Started Module 4 (Essential CSS concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 1 to 10 of the Build an NFT Site course.
+
+**Thoughts:** This refreshed my knowledge and skills about important CSS concepts, including semantic HTML, margins, paddings and pseudo-classes.
