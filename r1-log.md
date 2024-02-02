@@ -283,3 +283,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Continued Module 4 (Essential CSS concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 11 to 20 of the Build an NFT Site course.
 
 **Thoughts:** This was my first time learning about the concept of CSS specificity.
+
+---
+
+### Day 31: 2 February 2024. Friday
+
+**Today's Progress:** Completed he Build an NFT Site course from Module 4 (Essential CSS concepts) of Scrimba’s Frontend Developer Career Path, by doing Steps 21 to  34.
+
+**Thoughts:** This course allowed me to revise many CSS concepts, including compound selectors, block, inline and inline-block elements, overflow, float, etc.
