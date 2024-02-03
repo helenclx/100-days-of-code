@@ -288,6 +288,14 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 ### Day 31: 2 February 2024. Friday
 
-**Today's Progress:** Completed he Build an NFT Site course from Module 4 (Essential CSS concepts) of Scrimba’s Frontend Developer Career Path, by doing Steps 21 to  34.
+**Today's Progress:** Completed he Build an NFT Site course from Module 4 (Essential CSS concepts) of Scrimba’s Frontend Developer Career Path, by doing Steps 21 to 34.
 
 **Thoughts:** This course allowed me to revise many CSS concepts, including compound selectors, block, inline and inline-block elements, overflow, float, etc.
+
+---
+
+### Day 32: 3 February 2024. Saturday
+
+**Today's Progress:** Completed freeCodeCamp’s Learn Advanced Array Methods by Building a Statistics Calculator, by doing all 50 steps.
+
+**Thoughts:** Through this project, I not only got to practice and understand various advanced array methods better, but also learned about various ways to calculate statistics, including mean, median, mode, range, variance and standard deviation.
