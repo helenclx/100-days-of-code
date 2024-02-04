@@ -299,3 +299,13 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed freeCodeCamp’s Learn Advanced Array Methods by Building a Statistics Calculator, by doing all 50 steps.
 
 **Thoughts:** Through this project, I not only got to practice and understand various advanced array methods better, but also learned about various ways to calculate statistics, including mean, median, mode, range, variance and standard deviation.
+
+---
+
+### Day 33: 4 February 2024. Sunday
+
+**Today's Progress:** Completed CSS Fundamentals Challenges from Module 4 (Essential CSS concepts) of Scrimba’s Frontend Developer Career Path, aside from the solo project.
+
+**Thoughts:**
+- I got more practice in writing CSS and styling a web page layout.
+- This was my first time learning about the `<time>` HTML element.
