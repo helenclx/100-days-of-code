@@ -309,3 +309,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:**
 - I got more practice in writing CSS and styling a web page layout.
 - This was my first time learning about the `<time>` HTML element.
+
+---
+
+### Day 34: 5 February 2024. Monday
+
+**Today's Progress:** Started the Oldagram solo project for Module 4 (Essential CSS Concepts) of Scrimba’s Frontend Developer Career Path. Completed the project core requirements.
+
+**Thoughts:** I have completed the core requirements, but I intend to continue working on the project to achieve the project stretch goals and make a desktop version of the layout. By building this Instagram clone, I got to practice writing HTML and CSS and style a web page’s layout.
