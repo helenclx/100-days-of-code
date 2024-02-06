@@ -326,6 +326,6 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 **Thoughts:**
 - By doing this Instagram clone, I got to practice using JavaScript and DOM manipulation to render data from a JavaScript file.
-- I struggled to do the other stretch goal of increasing likes by double clicking a post. I searched the Scrimba Discord server, and found suggestions about coming back to this stretch goal after completing Module 5, so I am leaving the second stretch goal for now.
+- I struggled to do the other stretch goal of increasing likes by double-clicking a post. I searched the Scrimba Discord server, and found suggestions about coming back to this stretch goal after completing Module 5, so I am leaving the second stretch goal for now.
 
 **Link to work:** [Oldagram](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m4-oldagram/)
