@@ -317,3 +317,15 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Started the Oldagram solo project for Module 4 (Essential CSS Concepts) of Scrimba’s Frontend Developer Career Path. Completed the project core requirements.
 
 **Thoughts:** I have completed the core requirements, but I intend to continue working on the project to achieve the project stretch goals and make a desktop version of the layout. By building this Instagram clone, I got to practice writing HTML and CSS and style a web page’s layout.
+
+---
+
+### Day 35: 6 February 2024. Tuesday
+
+**Today's Progress:** Completed the Oldagram solo project for Module 4 (Essential CSS Concepts) of Scrimba’s Frontend Developer Career Path. I did the stretch goal of using JavaScript to render the posts.
+
+**Thoughts:**
+- By doing this Instagram clone, I got to practice using JavaScript and DOM manipulation to render data from a JavaScript file.
+- I struggled to do the other stretch goal of increasing likes by double clicking a post. I searched the Scrimba Discord server, and found suggestions about coming back to this stretch goal after completing Module 5, so I am leaving the second stretch goal for now.
+
+**Link to work:** [Oldagram](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m4-oldagram/)
