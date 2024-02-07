@@ -329,3 +329,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 - I struggled to do the other stretch goal of increasing likes by double-clicking a post. I searched the Scrimba Discord server, and found suggestions about coming back to this stretch goal after completing Module 5, so I am leaving the second stretch goal for now.
 
 **Link to work:** [Oldagram](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m4-oldagram/)
+
+---
+
+### Day 36: 7 February 2024. Wednesday
+
+**Today's Progress:** Completed Module 4 (Essential CSS Concepts) of Scrimba’s Frontend Developer Career Path by finishing Build a Coworking Space Site.
+
+**Thoughts:** By building this project, I got to practice and refresh my knowledge about Flexbox (especially margin: auto for Flexbox children), CSS positions (including absolute, relative and fixed) and z-index.
