@@ -337,3 +337,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed Module 4 (Essential CSS Concepts) of Scrimba’s Frontend Developer Career Path by finishing Build a Coworking Space Site.
 
 **Thoughts:** By building this project, I got to practice and refresh my knowledge about Flexbox (especially margin: auto for Flexbox children), CSS positions (including absolute, relative and fixed) and z-index.
+
+---
+
+### Day 37: 8 February 2024. Thursday
+
+**Today's Progress:** Started freeCodeCamp’s Learn Functional Programming by Building a Spreadsheet. Did Steps 1 to 40.
+
+**Thoughts:** Today I was busy with travelling to prepare to celebrate Lunar New Year, but I still managed to find some time to code, and I got to learn something new in shorthand property name syntax.
