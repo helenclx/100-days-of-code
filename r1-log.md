@@ -345,3 +345,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Started freeCodeCamp’s Learn Functional Programming by Building a Spreadsheet. Did Steps 1 to 40.
 
 **Thoughts:** Today I was busy with travelling to prepare to celebrate Lunar New Year, but I still managed to find some time to code, and I got to learn something new in shorthand property name syntax.
+
+---
+
+### Day 38: 9 February 2024. Friday
+
+**Today's Progress:** Completed freeCodeCamp’s Learn Functional Programming by Building a Spreadsheet, by doing Steps 41 to 103.
+
+**Thoughts:** By building this project I got to learn and practice a lot about functions, including currying, closures, immediately invoking returned functions as well as using underscore to prefix unused parameter, and various array methods.
