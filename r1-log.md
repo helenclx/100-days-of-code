@@ -353,3 +353,15 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed freeCodeCamp’s Learn Functional Programming by Building a Spreadsheet, by doing Steps 41 to 103.
 
 **Thoughts:** By building this project I got to learn and practice a lot about functions, including currying, closures, immediately invoking returned functions as well as using underscore to prefix unused parameter, and various array methods.
+
+---
+
+### Day 39: 10 February 2024. Saturday
+
+**Today's Progress:**
+- Completed Learn Regular Expressions by Building a Spam Filter from freeCodeCamp's JavaScript Algorithms and Data Structures curriculum, by doing all 5 steps.
+- Started building a Telephone Number Validator as a certification project for freeCodeCamp’s JavaScript curriculum. I have completed the required functions, but not styled the project yet.
+
+**Thoughts:**
+- The projects I did today allowed me to practice writing and using regular expression more.
+- Previously, I had done the telephone number validator certification project for freeCodeCamp’s Legacy JavaScript Algorithms and Data Structures curriculum, but in the updated curriculum I would need to revise my code since the project is now built on a web page.
