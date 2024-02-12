@@ -365,3 +365,21 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:**
 - The projects I did today allowed me to practice writing and using regular expression more.
 - Previously, I had done the telephone number validator certification project for freeCodeCamp’s Legacy JavaScript Algorithms and Data Structures curriculum, but in the updated curriculum I would need to revise my code since the project is now built on a web page.
+
+---
+
+### Day 40: 11 February 2024. Sunday
+
+**Today's Progress:** I have finished building a Telephone Number Validator as a certification project for freeCodeCamp’s JavaScript curriculum.
+
+**Thoughts:** By styling the telephone number validator like a phone, I got to practice using CSS to style containers with fixed sizes, and add automatically add a scrollbar to a container with the overflow property.
+
+---
+
+### Day 41: 12 February 2024. Monday
+
+**Today's Progress:** Started Module 5 (Essential JavaScript Concepts) of Scrimba’s Frontend Developer Career Path by starting the The World's Most Annoying Cookie Consent project. Did Steps 1 to 17.
+
+**Thoughts:**
+- I got to practice using JavaScript's `setTImeout` global function, DOM element style property, creating HTML forms and validating forms.
+- I learned about HTML input element's pattern attribute, and that you can use the pattern attribute with regular expressions to specify which types of characters are allowed for the input element.
