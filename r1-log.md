@@ -383,3 +383,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:**
 - I got to practice using JavaScript's `setTImeout` global function, DOM element style property, creating HTML forms and validating forms.
 - I learned about HTML input element's pattern attribute, and that you can use the pattern attribute with regular expressions to specify which types of characters are allowed for the input element.
+
+---
+
+### Day 42: 13 February 2024. Monday
+
+**Today's Progress:** Completed The World's Most Annoying Cookie Consent from Module 5 (Essential JavaScript Concepts) of Scrimba’s Frontend Developer Career Path.
+
+**Thoughts:** I got to practice using the `setTImeout` function, `element.classList.toggle`, Flexbox's flex-direction: row-reverse property, manipulating HTML attributes with JavaScript. I also learned to use JavaScript's `FormData()` constructor and its `.get()` method.
