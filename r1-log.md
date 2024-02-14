@@ -391,3 +391,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed The World's Most Annoying Cookie Consent from Module 5 (Essential JavaScript Concepts) of Scrimba’s Frontend Developer Career Path.
 
 **Thoughts:** I got to practice using the `setTImeout` function, `element.classList.toggle`, Flexbox's flex-direction: row-reverse property, manipulating HTML attributes with JavaScript. I also learned to use JavaScript's `FormData()` constructor and its `.get()` method.
+
+---
+
+### Day 43: 14 February 2024. Tuesday
+
+**Today's Progress:** Completed Learn Basic OOP by Building a Shopping Cart from freeCodeCamp’s JavaScript curriculum, by doing all 60 challenges.
+
+**Thoughts:** This project was a great opportunity to practice writing and using JavaScript classes.
