@@ -386,7 +386,7 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 ---
 
-### Day 42: 13 February 2024. Monday
+### Day 42: 13 February 2024. Tuesday
 
 **Today's Progress:** Completed The World's Most Annoying Cookie Consent from Module 5 (Essential JavaScript Concepts) of Scrimba’s Frontend Developer Career Path.
 
@@ -394,8 +394,16 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 ---
 
-### Day 43: 14 February 2024. Tuesday
+### Day 43: 14 February 2024. Wednesday
 
 **Today's Progress:** Completed Learn Basic OOP by Building a Shopping Cart from freeCodeCamp’s JavaScript curriculum, by doing all 60 challenges.
 
 **Thoughts:** This project was a great opportunity to practice writing and using JavaScript classes.
+
+---
+
+### Day 44: 15 February 2024. Thursday
+
+**Today's Progress:** Started Pumpkin's Purrfect Meme Picker from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 1 to 13.
+
+**Thoughts:** I got to practice writing the `for...of` statement, Import and export, HTML radio inputs and using the the array `.includes()` method to prevent duplicates in an array.
