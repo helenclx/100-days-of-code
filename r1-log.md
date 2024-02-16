@@ -407,3 +407,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Started Pumpkin's Purrfect Meme Picker from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 1 to 13.
 
 **Thoughts:** I got to practice writing the `for...of` statement, Import and export, HTML radio inputs and using the array `.includes()` method to prevent duplicates in an array.
+
+---
+
+### Day 45: 16 February 2024. Friday
+
+**Today's Progress:** Continued Pumpkin's Purrfect Meme Picker from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 14 to 25.
+
+**Thoughts:** I got to practice using the `event.target` and `etement.classList` properties to manipulate the DOM and style elements. This was also my first time learning about the CSS `accent-color` property.
