@@ -423,3 +423,15 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed Pumpkin's Purrfect Meme Picker from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path, by doing Steps 26 to 38, except for the stretch goals suggested by the last scrim.
 
 **Thoughts:** This is a fun project that has given me the opportunity to practice multiple useful JavaScript concepts, particularly the array methods, `filter()` and `includes()`, and method chaining.
+
+---
+
+### Day 47: 18 February 2024. Sunday
+
+**Today's Progress:**
+- Started Twimba: Twitter Clone from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 1 to 23.
+- Completing the stretch goal of the previous module's [Oldagram](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m4-oldagram/) project of increasing likes when double clicking the post. I also added the feature of increasing likes by clicking the heart icon.
+
+**Thoughts:** Building Twimba gave me the opportunity to practice using CDN, including Font Awesome, and the `forEach()` array method. Also, I learned about the data attributes, which are especially useful in setting up the likes and retweets function. This in turn has helped me in figuring out how to complete all the stretch goals of the Oldagram project.
+
+**Link to work:** [Oldagram](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m4-oldagram/)
