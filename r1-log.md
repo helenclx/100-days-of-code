@@ -435,3 +435,17 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** Building Twimba gave me the opportunity to practice using CDN, including Font Awesome, and the `forEach()` array method. Also, I learned about the data attributes, which are especially useful in setting up the likes and retweets function. This in turn has helped me in figuring out how to complete all the stretch goals of the Oldagram project.
 
 **Link to work:** [Oldagram](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m4-oldagram/)
+
+---
+
+### Day 48: 19 February 2024. Monday
+
+**Today's Progress:**
+- Completed Twimba: Twitter Clone from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path, except the stretch goals suggested in the last scrim.
+- Completed all stretch goals of the [We are the Champions](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-we-are-the-champions/) solo project from Module 3, including adding likes.
+
+**Thoughts:**
+- With Twinba, I got to practice conditionally rendering CSS classes and using the UUID CDN to generate IDs.
+- With the We are the Champions project, I learned to update Firebase database through the DOM, and apply my knowledge and skills of using the data attribute and local storage to keep track of data of different elements.
+
+**Link to work:** [We are the Champions](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-we-are-the-champions/)
