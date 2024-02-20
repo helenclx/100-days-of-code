@@ -449,3 +449,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 - With the We are the Champions project, I learned to update Firebase database through the DOM, and apply my knowledge and skills of using the data attribute and local storage to keep track of data of different elements.
 
 **Link to work:** [We are the Champions](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m3-we-are-the-champions/)
+
+---
+
+### Day 49: 20 February 2024. Tuesday
+
+**Today's Progress:** Started Learn Intermediate OOP by Building a Platformer Game from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum. Did Steps 1 to 30.
+
+**Thoughts:** I learned about the Canvas API and the `<canvas>` element, and got more practice in writing class components.
