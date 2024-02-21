@@ -457,3 +457,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Started Learn Intermediate OOP by Building a Platformer Game from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum. Did Steps 1 to 30.
 
 **Thoughts:** I learned about the Canvas API and the `<canvas>` element, and got more practice in writing class components.
+
+---
+
+### Day 50: 21 February 2024. Wednesday
+
+**Today's Progress:** I have reached halfway through the challenge. Continued Learn Intermediate OOP by Building a Platformer Game from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum. Did Steps 31 to 80.
+
+**Thoughts:** I learned about the window `requestAnimationFrame()` method, practiced using boolean expressions in an array and switch statements.
