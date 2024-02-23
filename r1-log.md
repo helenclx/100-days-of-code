@@ -473,3 +473,13 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Completed Learn Intermediate OOP by Building a Platformer Game from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum. Did Steps 81 to 111.
 
 **Thoughts:** By building this project, i learned to build a game with HTML, CSS and JavaScript. In particular, class components could be useful in accomplishing it.
+
+---
+
+### Day 52: 23 February 2024. Friday
+
+**Today's Progress:**
+- Started Essential JS Mini Projects from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 1 to 10.
+- Refactored my We are the Champions solo project from Module 3 to avoid using `innerHTML` to render user input values.
+
+**Thoughts:** I learned about the differences between the `.map()` and the `.forEach()` methods, and the dangers of using `innerHTML`. I applied what I learned by refactoring my We are the Champions solo project.
