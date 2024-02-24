@@ -483,3 +483,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 - Refactored my We are the Champions solo project from Module 3 to avoid using `innerHTML` to render user input values.
 
 **Thoughts:** I learned about the differences between the `.map()` and the `.forEach()` methods, and the dangers of using `innerHTML`. I applied what I learned by refactoring my We are the Champions solo project.
+
+---
+
+### Day 53: 24 February 2024. Saturday
+
+**Today's Progress:** Continued Essential JS Mini Projects from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 11 to 28.
+
+**Thoughts:** The super challenge from this course allowed me to practice multiple important JavaScript concepts such as arrow functions, import and export, the array `.map()` and `.reduce()` methods and default parameters.
