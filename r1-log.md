@@ -499,3 +499,11 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Continued Essential JS Mini Projects from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 29 to 39.
 
 **Thoughts:** Today, I learned about the rest parameter in functions, short-circuiting operators and the `Error()` constructor. I also learned that the `Math.max()` and `Math.min()` methods do not take array as an argument.
+
+---
+
+### Day 55: 26 February 2024. Monday
+
+**Today's Progress:** Continued Essential JS Mini Projects from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 40 to 48, which means the only thing left for me to finish the module is its solo project.
+
+**Thoughts:** I practiced creating constructor functions and class components, including using the `this` keyword.
