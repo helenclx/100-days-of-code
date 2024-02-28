@@ -507,3 +507,19 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Continued Essential JS Mini Projects from Module 5 (Essential JavaScript concepts) of Scrimba’s Frontend Developer Career Path. Did Steps 40 to 48, which means the only thing left for me to finish the module is its solo project.
 
 **Thoughts:** I practiced creating constructor functions and class components, including using the `this` keyword.
+
+---
+
+### Day 56: 27 February 2024. Tuesday
+
+**Today's Progress:** Started the restaurant ordering app solo project for Module 5 of Scrimba’s Frontend Developer Career Path. I have completed the required functions in HTML and JavaScript, including rendering the menu with JavaScript, adding and removing items and creating a payment modal with compulsory form inputs.
+
+**Thoughts:** This project is a great opportunity to put my skills and knowledge of manipulating DOM, working with arrays and objects and writing functions.
+
+---
+
+### Day 57: 28 February 2024. Wednesday
+
+**Today's Progress:** Continued working on the restaurant ordering app solo project for Module 5 of Scrimba’s Frontend Developer Career Path. I have started working on the CSS by setting up the font families and setting up its colour scheme.
+
+**Thoughts:** Unfortunately, I am unable to do much coding today because I am not feeling very well.
