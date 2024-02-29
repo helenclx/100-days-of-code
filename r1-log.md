@@ -523,3 +523,13 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Today's Progress:** Continued working on the restaurant ordering app solo project for Module 5 of Scrimba’s Frontend Developer Career Path. I have started working on the CSS by setting up the font families and setting up its colour scheme.
 
 **Thoughts:** Unfortunately, I am unable to do much coding today because I am not feeling very well.
+
+---
+
+### Day 58: 29 February 2024. Thursday
+
+**Today's Progress:** Completed the restaurant ordering app solo project for Module 5 of Scrimba’s Frontend Developer Career Path by finishing its CSS.
+
+**Thoughts:** Writing the CSS of this solo project allowed me to apply what I learned about styling a pop-up modal from this course.
+
+**Link to work:** [Restaurant ordering app](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m5-restaurant-ordering-app/)
