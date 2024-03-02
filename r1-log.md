@@ -533,3 +533,15 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:** Writing the CSS of this solo project allowed me to apply what I learned about styling a pop-up modal from this course.
 
 **Link to work:** [Restaurant ordering app](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m5-restaurant-ordering-app/)
+
+---
+
+### Day 59: 1 March 2024. Friday
+
+**Today's Progress:** Watched [“Breaking into tech: Top tips for standing out in a crowded market”](https://www.youtube.com/watch?v=hQwTsgPd1u) from Froneend Mentor’s YouTube channel.A
+
+**Thoughts:** My main takeaways from this video:
+- Be prepared before an interview
+- Build projects that provide solution to stand out from others
+- Involving in the open source scene is a good alternative to build experience as a developer
+- Working in tech does not have to be working as a developer
