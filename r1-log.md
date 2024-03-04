@@ -558,8 +558,18 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 
 ### Day 61: 3 March 2024. Sunday
 
-**Today's Progress:** Continued doing the Finance problem from Week 9 of CS50’s Introduction to Computer Science. Started implementing the feature to buy stocks by setting up and testing input elements
+**Today's Progress:** Continued doing the Finance problem from Week 9 of CS50’s Introduction to Computer Science. Started implementing the feature to buy stocks by setting up and testing input elements.
 
 **Thoughts:**
 - I learned to use `try...except` to display an error message on the web page if an incorrect input is entered after a lot of research and trial and errors.
 - I also learned to make use of the phpLiteAdmin installed in the CS50 Codespace to work on the project’s database and get the SQL commands I want to use.
+
+---
+
+### Day 62: 4 March 2024. Monday
+
+**Today's Progress:** Continued doing the Finance problem from Week 9 of CS50’s Introduction to Computer Science. I successfully implemented the features to buy stocks and displaying the user’s owned stocks on the index page.
+
+**Thoughts:**
+- My work on the Finance problem today allowed me to refresh my knowledge and skills of SQL, by creating new tables, inserting new rows into tables, and updating data of existing tables.
+- I also got more practice in working with Flask by dynamically render HTML elements via Python.
