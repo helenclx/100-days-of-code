@@ -573,3 +573,18 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 **Thoughts:**
 - My work on the Finance problem today allowed me to refresh my knowledge and skills of SQL, by creating new tables, inserting new rows into tables, and updating data of existing tables.
 - I also got more practice in working with Flask by dynamically render HTML elements via Python.
+
+---
+
+### Day 63: 5 March 2024. Tuesday
+
+**Today's Progress:** At last, I completed and submitted the Finance problem from Week 9 of CS50’s Introduction to Computer Science! This means only my final project left to submit to complete the course.
+
+I successfully implemented not only the last required features to sell stocks and display transaction history, but also additional features, namely to add cash to the user’s account and change the user’s password.
+
+**Thoughts:** Working on this assignment allowed me to practice and learn SQL, Python and Flask a lot. For today specifically, I learned about:
+- The flash message function in Flask
+- Use both the `round()` and `float()` functions to round a number to certain amount of decimals
+- The `steps` attribute of HTML’s `<select>` element
+
+**Link to work:** [CS50 Finance](https://www.youtube.com/watch?v=AYkO59_Ojb4)
