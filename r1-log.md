@@ -583,6 +583,7 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 I successfully implemented not only the last required features to sell stocks and display transaction history, but also additional features, namely to add cash to the user’s account and change the user’s password.
 
 **Thoughts:** Working on this assignment allowed me to practice and learn SQL, Python and Flask a lot. For today specifically, I learned about:
+- Set the timestamp based on local time zone in SQL
 - The flash message function in Flask
 - Use both the `round()` and `float()` functions to round a number to certain amount of decimals
 - The `steps` attribute of HTML’s `<select>` element
