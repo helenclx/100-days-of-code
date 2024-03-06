@@ -589,3 +589,16 @@ I successfully implemented not only the last required features to sell stocks an
 - The `steps` attribute of HTML’s `<select>` element
 
 **Link to work:** [CS50 Finance](https://www.youtube.com/watch?v=AYkO59_Ojb4)
+
+---
+
+### Day 64: 6 March 2024. Wednesday
+
+**Today's Progress:**
+- Set up WSL in my PC, including installing the WSL extension in Visual Studio Code.
+- Did the Hello, Flask practice problem from Week 9 of CS50’s Introduction to Computer Science.
+- Watched CS50x 2024 Week 10 lecture, which is also the final one for the course, about cybersecurity.
+
+**Thoughts:** My work today allowed me to:
+- learn to build a Flask app from scratch.
+- learn to use WSL for development purposes, such as building a Flask app.
