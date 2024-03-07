@@ -602,3 +602,13 @@ I successfully implemented not only the last required features to sell stocks an
 **Thoughts:** My work today allowed me to:
 - learn to build a Flask app from scratch.
 - learn to use WSL for development purposes, such as building a Flask app.
+
+---
+
+### Day 65: 7 March 2024. Thursday
+
+**Today's Progress:**
+- Started Learn Intermediate Algorithmic Thinking by Building a Dice Game from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum. Did Steps 1 to 44.
+- Listened to the Scrimba Podcast Episode 150: “How to Figure Out What You Want to Do, with Scrimba Student Amy”.
+
+**Thoughts:** I never played this sort of dice game before, so coding this game is a good opportunity to practice my JavaScript skills too.
