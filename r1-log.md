@@ -612,3 +612,11 @@ I successfully implemented not only the last required features to sell stocks an
 - Listened to the Scrimba Podcast Episode 150: “How to Figure Out What You Want to Do, with Scrimba Student Amy”.
 
 **Thoughts:** I never played this sort of dice game before, so coding this game is a good opportunity to practice my JavaScript skills too.
+
+---
+
+### Day 66: 8 March 2024. Friday
+
+**Today's Progress:** Completed Learn Intermediate Algorithmic Thinking by Building a Dice Game from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum, by doing Steps 45 to 87.
+
+**Thoughts:** Building this game allowed me to practice coding a project by breaking it down into a sequence of well-defined, step-by-step instructions.
