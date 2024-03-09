@@ -620,3 +620,11 @@ I successfully implemented not only the last required features to sell stocks an
 **Today's Progress:** Completed Learn Intermediate Algorithmic Thinking by Building a Dice Game from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum, by doing Steps 45 to 87.
 
 **Thoughts:** Building this game allowed me to practice coding a project by breaking it down into a sequence of well-defined, step-by-step instructions.
+
+---
+
+### Day 67: 9 March 2024. Saturday
+
+**Today's Progress:** Started building the cash register certification project for freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum.
+
+**Thoughts:** This is the most challenging certification project I have done, in no small part due to how tricky to work with floats in JavaScript.
