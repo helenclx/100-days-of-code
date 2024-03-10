@@ -628,3 +628,15 @@ I successfully implemented not only the last required features to sell stocks an
 **Today's Progress:** Started building the cash register certification project for freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum.
 
 **Thoughts:** This is the most challenging certification project I have done, in no small part due to how tricky to work with floats in JavaScript.
+
+---
+
+### Day 68: 10 March 2024. Sunday
+
+**Today's Progress:** Continued working on the cash register certification project for freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum.
+
+I have completed the required functions in HTML and JavaScript to pass all the test, but I still need to finish the CSS before actually submitting.
+
+**Thoughts:** Although I had completed the cash register project in the legacy curriculum, for the new curriculum, I initially tried to write the cash register function of the project from scratch, but I was unable to get my code pass all the tests.
+
+Therefore, I decided to go back to my solution to the project in the legacy curriculum, revise and refactor the code so the output will be rendered on the web page.
