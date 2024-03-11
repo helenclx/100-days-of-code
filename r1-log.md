@@ -640,3 +640,15 @@ I have completed the required functions in HTML and JavaScript to pass all the t
 **Thoughts:** Although I had completed the cash register project in the legacy curriculum, for the new curriculum, I initially tried to write the cash register function of the project from scratch, but I was unable to get my code pass all the tests.
 
 Therefore, I decided to go back to my solution to the project in the legacy curriculum, revise and refactor the code so the output will be rendered on the web page.
+
+---
+
+### Day 69: 11 March 2024. Monday
+
+**Today's Progress:**
+- Finally completed the cash register certification project for freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum by finishing its CSS.
+- Started Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path. Did Steps 1 to 18.
+
+**Thoughts:**
+- I am glad to finally finish the cash register certification project, and thus completing all certification projects for the JavaScript curriculum that were also available in the legacy curriculum.
+- Scrimba’s responsive desicourse serves as a refresher for my knowledge and skills about responsive design.
