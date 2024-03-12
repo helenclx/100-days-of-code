@@ -651,4 +651,12 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 
 **Thoughts:**
 - I am glad to finally finish the cash register certification project, and thus completing all certification projects for the JavaScript curriculum that were also available in the legacy curriculum.
-- Scrimba’s responsive desicourse serves as a refresher for my knowledge and skills about responsive design.
+- Scrimba’s Responsive Design course served as a refresher for my knowledge and skills about responsive design.
+
+---
+
+### Day 70: 12 March 2024. Tuesday
+
+**Today's Progress:** Continued Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path. Completed the Build a Responsive Site section.
+
+**Thoughts:** This section served as a refresher for my knowledge and skills about responsive, and I learned about the `flex`, `flex-basis` and `flex-grow` properties.
