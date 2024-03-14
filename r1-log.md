@@ -660,3 +660,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Continued Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path. Completed the Build a Responsive Site section.
 
 **Thoughts:** This section served as a refresher for my knowledge and skills about responsive, and I learned about the `flex`, `flex-basis` and `flex-grow` properties.
+
+---
+
+### Day 71: 13 March 2024. Wednesday
+
+**Today's Progress:** Completed Learn Fetch and Promises by Building an fCC Authors Page from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum, by doing all 29 steps.
+
+**Thoughts:** This course allowed me to learn about the Fetch API, its methods, and how to use them.
