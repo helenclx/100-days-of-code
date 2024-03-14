@@ -668,3 +668,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Completed Learn Fetch and Promises by Building an fCC Authors Page from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum, by doing all 29 steps.
 
 **Thoughts:** This course allowed me to learn about the Fetch API, its methods, and how to use them.
+
+---
+
+### Day 72: 14 March 2024. Thursday
+
+**Today's Progress:** Completed the Build a Product Splash Page section of Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path.
+
+**Thoughts:** This section was another good refresher for responsive design. Notably, this section taught about viewport units, the `order` and `box-sizing` properties in CSS.
