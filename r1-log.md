@@ -676,3 +676,15 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Completed the Build a Product Splash Page section of Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path.
 
 **Thoughts:** This section was another good refresher for responsive design. Notably, this section taught about viewport units, the `order` and `box-sizing` properties in CSS.
+
+---
+
+### Day 73: 15 March 2024. Friday
+
+**Today's Progress:**
+- Completed Learn Asynchronous Programming by Building an fCC Forum Leaderboard from freeCodeCamp’s JavaScript Algorithms and Data Structures curriculum, by doing all 67 steps.
+- Listened to Episode 151 of the Scrimba Podcast while doing the freeCodeCamp curriculum.
+
+**Thoughts:**
+- The freeCodeCamp course served as a refresher for fetching APIs, the `async` and `await` keywords and the `try...catch` statement.
+- Coincidentally, the episode mentioned me because my tweet of my Day 65 of the 100DaysOfCode challenge was also about me doing the same things, with the podcast calling it a winning combo. 😀
