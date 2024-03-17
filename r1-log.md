@@ -691,10 +691,18 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 
 ---
 
-### Day 74: 16 March 2024. Sunday
+### Day 74: 16 March 2024. Saturday
 
 **Today's Progress:** Completed the Pokémon Search App certification project for freeCodeCamp’s new JavaScript curriculum. This also means I have earned the JavaScript Algorithms and Data Structures (Beta) certification from freeCodeCamp! 🎉
 
 **Thoughts:** I enjoyed building the Pokémon Search App a lot, because not only I got to practice building an app that fetches data from an API, but also my familiarity with Pokémon helped me to quickly identify which data in the API I need for this project.
 
 **Link to work:** [freeCodeCamp JavaScript Algorithms and Data Structures (Beta) certification](https://www.freecodecamp.org/certification/helenclx/javascript-algorithms-and-data-structures-v8)
+
+---
+
+### Day 75: 17 March 2024. Sunday
+
+**Today's Progress:** Started freeCodeCamp’s Scientific Computing with Python (Beta) curriculum, Dud Learn String Manipulation by Building a Cipher Steps 1 to 51.
+
+**Thoughts:** I took this course as a refresher for my Python knowledge and skill.
