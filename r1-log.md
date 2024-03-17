@@ -688,3 +688,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Thoughts:**
 - The freeCodeCamp course served as a refresher for fetching APIs, the `async` and `await` keywords and the `try...catch` statement.
 - Coincidentally, the episode mentioned me because my tweet of my Day 65 of the 100DaysOfCode challenge was also about me doing the same things, with the podcast calling it a winning combo. 😀
+
+---
+
+### Day 74: 16 March 2024. Sunday
+
+**Today's Progress:** Completed the Pokémon Search App certification project for freeCodeCamp’s new JavaScript curriculum. This also means I have earned the JavaScript Algorithms and Data Structures (Beta) certification from freeCodeCamp! 🎉
+
+**Thoughts:** I enjoyed building the Pokémon Search App a lot, because not only I got to practice building an app that fetches data from an API, but also my familiarity with Pokémon helped me to quickly identify which data in the API I need for this project.
+
+**Link to work:** [freeCodeCamp JavaScript Algorithms and Data Structures (Beta) certification](https://www.freecodecamp.org/certification/helenclx/javascript-algorithms-and-data-structures-v8)
