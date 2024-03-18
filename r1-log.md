@@ -706,3 +706,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Started freeCodeCamp’s Scientific Computing with Python (Beta) curriculum, Dud Learn String Manipulation by Building a Cipher Steps 1 to 51.
 
 **Thoughts:** I took this course as a refresher for my Python knowledge and skill.
+
+---
+
+### Day 76: 18 March 2024. Monday
+
+**Today's Progress:** Completed Learn String Manipulation by Building a Cipher from freeCodeCamp’s Scientific Computing with Python curriculum, by doing Steps 52 to 95.
+
+**Thoughts:** This has been a good refresher for Python basics. I also learned something new, namely the pass keyword.
