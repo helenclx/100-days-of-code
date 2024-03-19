@@ -714,3 +714,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Completed Learn String Manipulation by Building a Cipher from freeCodeCamp’s Scientific Computing with Python curriculum, by doing Steps 52 to 95.
 
 **Thoughts:** This has been a good refresher for Python basics. I also learned something new, namely the pass keyword.
+
+---
+
+### Day 77: 19 March 2024. Tuesday
+
+**Today's Progress:** Started the CSS Grid section of Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path. Did steps 1 to 11.
+
+**Thoughts:** This section allowed me to learn more about CSS grid.
