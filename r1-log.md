@@ -722,3 +722,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Started the CSS Grid section of Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path. Did steps 1 to 11.
 
 **Thoughts:** This section allowed me to learn more about CSS grid.
+
+---
+
+### Day 78: 20 March 2024. Wednesday
+
+**Today's Progress:** Completed the CSS Grid section of Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path, by doing steps 12 to 20.
+
+**Thoughts:** This means only the solo project left for me to complete Module 6.
