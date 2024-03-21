@@ -730,3 +730,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Completed the CSS Grid section of Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path, by doing steps 12 to 20.
 
 **Thoughts:** This means only the solo project left for me to complete Module 6.
+
+---
+
+### Day 79: 21 March 2024. Thursday
+
+**Today's Progress:** Started building the Learning Journal solo project for Scrimba’s Frontend Developer Career Path Module 6 (Responsive Design). I have completed the requirements, but I am considering doing some of the stretch goals as well.
+
+**Thoughts:** This project allowed me to practice responsive design, including using both Flexbox and CSS grid.
+
+**Link to work:** [Learning Journal](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m6-learning-journal/)
