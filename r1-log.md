@@ -740,3 +740,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Thoughts:** This project allowed me to practice responsive design, including using both Flexbox and CSS grid.
 
 **Link to work:** [Learning Journal](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m6-learning-journal/)
+
+---
+
+### Day 80: 22 March 2024. Friday
+
+**Today's Progress:** Completed Module 6 (Responsive Design) of Scrimba’s Frontend Developer Career Path by finishing the Learning Journal solo project. In addition to the requirements, I also did the stretch goals of responsive navigation and displaying more posts by clicking “View More”.
+
+**Thoughts:** Doing the stretch goals allowed me to practice and apply the JavaScript knowledge and skills I had learned.
+
+**Link to work:** [Learning Journal](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m6-learning-journal/)
