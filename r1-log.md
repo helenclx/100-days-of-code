@@ -750,3 +750,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Thoughts:** Doing the stretch goals allowed me to practice and apply the JavaScript knowledge and skills I had learned.
 
 **Link to work:** [Learning Journal](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m6-learning-journal/)
+
+---
+
+### Day 81: 23 March 2024. Saturday
+
+**Today's Progress:** Completed Frontend Mentor’s Advice generator app challenge with HTML, CSS and vanilla JavaScript.
+
+**Thoughts:** This challenge allowed me to practice building a project that involves fetching data from an API. I had started this challenge since 18 August 2023, but back then I was not confident in dealing with API yet. Now thanks to freeCodeCamp’s updated JavaScript curriculum, I am finally comfortable with using API enough to complete this challenge.
+
+**Link to work:** [Advice generator app](https://www.frontendmentor.io/solutions/advice-generator-app-with-vanilla-javascript-c3BKyJh-M8)
