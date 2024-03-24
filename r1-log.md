@@ -760,3 +760,16 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Thoughts:** This challenge allowed me to practice building a project that involves fetching data from an API. I had started this challenge since 18 August 2023, but back then I was not confident in dealing with API yet. Now thanks to freeCodeCamp’s updated JavaScript curriculum, I am finally comfortable with using API enough to complete this challenge.
 
 **Link to work:** [Advice generator app](https://www.frontendmentor.io/solutions/advice-generator-app-with-vanilla-javascript-c3BKyJh-M8)
+
+---
+
+### Day 82: 24 March 2024. Sunday
+
+**Today's Progress:**
+- Watched Module 7 (Code Reviews) of Scrimba’s Frontend Developer Career Path.
+- Created a web page to display all my solutions to Frontend Mentor’s challenges and deployed it to GitHub Pages.
+- Updated my developer portfolio by updating the list of my skills, and refactoring and cleaning up the CSS.
+
+**Thoughts:** I practiced and applied what I learned about CSS grid from Scrimba to my projects.
+
+**Link to work:** [Helen Chong's Frontend Mentor Challenge Solutions](https://helenclx.github.io/Frontend-Mentor-Challenges/)
