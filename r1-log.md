@@ -773,3 +773,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Thoughts:** I practiced and applied what I learned about CSS grid from Scrimba to my projects.
 
 **Link to work:** [Helen Chong's Frontend Mentor Challenge Solutions](https://helenclx.github.io/Frontend-Mentor-Challenges/)
+
+---
+
+### Day 83: 25 March 2024. Monday
+
+**Today's Progress:**
+- Updated the project section of my developer portfolio to display my best projects instead of most recent ones.
+- Started Module 8 (Working with Apis) of Scrimba’s Frontend Developer Career Path. Completed the Intro to APIs & BoredBot section.
+
+**Thoughts:** The intro section of Scrimba’s API course served as a refresher for API basics such as servers, clients, requests, responses, JSON and Fetch API.
