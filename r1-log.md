@@ -783,3 +783,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 - Started Module 8 (Working with Apis) of Scrimba’s Frontend Developer Career Path. Completed the Intro to APIs & BoredBot section.
 
 **Thoughts:** The intro section of Scrimba’s API course served as a refresher for API basics such as servers, clients, requests, responses, JSON and Fetch API.
+
+---
+
+### Day 84: 26 March 2024. Tuesday
+
+**Today's Progress:** Started the URLs, REST, & BlogSpace section of Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. Did Steps 1 to 16.
+
+**Thoughts:** I learned about request components, including URL, endpoints, methods, body and headers.
