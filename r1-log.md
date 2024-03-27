@@ -791,3 +791,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Started the URLs, REST, & BlogSpace section of Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. Did Steps 1 to 16.
 
 **Thoughts:** I learned about request components, including URL, endpoints, methods, body and headers.
+
+---
+
+### Day 85: 27 March 2024. Wednesday
+
+**Today's Progress:** Continued the URLs, REST, & BlogSpace section of Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path, from Steps 17. Now the only thing left for me to do to complete the section is the solo project.
+
+**Thoughts:** I learned about REST APIs and its components, including client and server separation, statelessness, nested resources, URL parameters and query strings.
