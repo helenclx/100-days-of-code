@@ -799,3 +799,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Continued the URLs, REST, & BlogSpace section of Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path, from Steps 17. Now the only thing left for me to do to complete the section is the solo project.
 
 **Thoughts:** I learned about REST APIs and its components, including client and server separation, statelessness, nested resources, URL parameters and query strings.
+
+---
+
+### Day 86: 28 March 2024. Thursday
+
+**Today's Progress:** Completed the color scheme generator solo project for Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. This means I have completed Module 8.
+
+**Thoughts:** This solo project allowed me to get more practice in building project that involves fetching data from APIs.
+
+**Link to work:** [Color Scheme Generator](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m8-color-scheme-generator/)
