@@ -809,3 +809,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Thoughts:** This solo project allowed me to get more practice in building project that involves fetching data from APIs.
 
 **Link to work:** [Color Scheme Generator](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m8-color-scheme-generator/)
+
+---
+
+### Day 87: 29 March 2024. Friday
+
+**Today's Progress:** Completed the updated CSS Grid section from Module 6 (Responsive Design) of Scrimba's Frontend Developer Career Path.
+
+**Thoughts:** The project-based approach of the updated section allowed me to practice more in writing grid containers.
