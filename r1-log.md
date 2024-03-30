@@ -817,3 +817,15 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Completed the updated CSS Grid section from Module 6 (Responsive Design) of Scrimba's Frontend Developer Career Path.
 
 **Thoughts:** The project-based approach of the updated section allowed me to practice more in writing grid containers.
+
+---
+
+### Day 88: 30 March 2024. Saturday
+
+**Today's Progress:**
+- Started the Async JavaScript & War section of Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. Did Steps 1 to 8.
+- Refactored the code of my We are the Champions and color scheme generator solo projects for Scrimba.
+
+**Thoughts:**
+- From the Scrimba course, I got to dive deeper into what callback functions are and how they work.
+- By refactoring some of my Scrimba solo projects, I practiced writing grid containers for my project layout.
