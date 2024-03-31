@@ -829,3 +829,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Thoughts:**
 - From the Scrimba course, I got to dive deeper into what callback functions are and how they work.
 - By refactoring some of my Scrimba solo projects, I practiced writing grid containers for my project layout.
+
+---
+
+### Day 89: 31 March 2024. Sunday
+
+**Today's Progress:** Continued the Async JavaScript & War section of Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. Did Steps 9 to 17.
+
+**Thoughts:** I got to dive deeper into promises and promise chaining.
