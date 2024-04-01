@@ -837,3 +837,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Continued the Async JavaScript & War section of Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. Did Steps 9 to 17.
 
 **Thoughts:** I got to dive deeper into promises and promise chaining.
+
+---
+
+### Day 90: 1 April 2024. Monday
+
+**Today's Progress:** Continued the Async JavaScript & War section of Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. Now the only thing left for me to do to finish the section is the solo project.
+
+**Thoughts:** I got more practice in using API to build web projects, including games, and a refresher on async and await.
