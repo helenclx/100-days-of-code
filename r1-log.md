@@ -845,3 +845,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:** Continued the Async JavaScript & War section of Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. Now the only thing left for me to do to finish the section is the solo project.
 
 **Thoughts:** I got more practice in using API to build web projects, including games, and a refresher on async and await.
+
+---
+
+### Day 91: 2 April 2024. Tuesday
+
+**Today's Progress:**
+- Started the movie watchlist solo project for Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. I have completed all the required functionality, but have not properly styled the project yet.
+- Listened to Episode 153 of the Scrimba Podcast while working on the movie watchlist solo project.
+
+**Thoughts:** This solo project challenged me to apply everything I learned about HTML and JavaScript, including manipulating the DOM, fetching data from APIs, working with local storage, etc.
