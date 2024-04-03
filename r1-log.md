@@ -855,3 +855,15 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 - Listened to Episode 153 of the Scrimba Podcast while working on the movie watchlist solo project.
 
 **Thoughts:** This solo project challenged me to apply everything I learned about HTML and JavaScript, including manipulating the DOM, fetching data from APIs, working with local storage, etc.
+
+---
+
+### Day 92: 3 April 2024. Wednesday
+
+**Today's Progress:**
+- Started working on the CSS of my movie watchlist solo project for Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path. The only parts left were the individual containers for movies and their info.
+- Listened to Episode 117 of the freeCodeCamp Podcast. Signed up for 100Devs after discovering the platform through this episode of the fCC Podcast.
+
+**Thoughts:**
+- Through working on the CSS of the movie watchlist, I learned how to add an icon into an input element by using the position property in CSS.
+- I am grateful of platforms like freeCodeCamp and 100Devs that provides opportunities to learn to code for free.
