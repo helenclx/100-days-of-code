@@ -867,3 +867,17 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Thoughts:**
 - Through working on the CSS of the movie watchlist, I learned how to add an icon into an input element by using the position property in CSS.
 - I am grateful of platforms like freeCodeCamp and 100Devs that provides opportunities to learn to code for free.
+
+---
+
+### Day 93: 4 April 2024. Thursday
+
+**Today's Progress:**
+- Finally completed the movie watchlist solo project for for Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path, meaning I have finished the Async JavaScript & War section of Module 8.
+- Listened to Episode 154 of the Scrimba Podcast.
+
+**Thoughts:**
+- By using CSS grid to style the layout of my movie containers, I gained more confidence in using CSS grids in my projects.
+- I discovered a bug in the JavaScript of my movie watchlist project that made it unable to remove a movie from the watchlist on the search page. I used a different JavaScript method to check if a movie in the search results is already in the watchlist.
+
+**Link to work:** [Movie Watchlist](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m8-movie-watchlist/)
