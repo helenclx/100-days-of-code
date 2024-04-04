@@ -873,7 +873,7 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 ### Day 93: 4 April 2024. Thursday
 
 **Today's Progress:**
-- Finally completed the movie watchlist solo project for for Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path, meaning I have finished the Async JavaScript & War section of Module 8.
+- Finally completed the movie watchlist solo project for Module 8 (Working with APIs) of Scrimba’s Frontend Developer Career Path, meaning I have finished the Async JavaScript & War section of Module 8.
 - Listened to Episode 154 of the Scrimba Podcast.
 
 **Thoughts:**
