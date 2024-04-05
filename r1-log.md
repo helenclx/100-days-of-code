@@ -881,3 +881,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 - I discovered a bug in the JavaScript of my movie watchlist project that made it unable to remove a movie from the watchlist on the search page. I used a different JavaScript method to check if a movie in the search results is already in the watchlist.
 
 **Link to work:** [Movie Watchlist](https://helenclx.github.io/Scrimba-Frontend-Solo-Projects/m8-movie-watchlist/)
+
+---
+
+### Day 94: 5 April 2024. Friday
+
+**Today's Progress:**
+- Succeed in using GitHub Actions to deploy a website repository to Neocities, by using bcomnes’s deploy-to-neocities.
+- Set up and started to learn to use Eleventy to build static websites.
+
+**Thoughts:** Today I learned a lot about setting up GitHub workflows and static site generators.
