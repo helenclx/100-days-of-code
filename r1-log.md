@@ -891,3 +891,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 - Set up and started to learn to use Eleventy to build static websites.
 
 **Thoughts:** Today I learned a lot about setting up GitHub workflows and static site generators.
+
+---
+
+### Day 95: 6 April 2024. Saturday
+
+**Today's Progress:**
+- Learned to build a portfolio website with Eleventy through Gerard Hynes’s tutorial article on freeCodeCamp.
+- Learned to build a blog with Eleventy through cfjedimaster’s guide and GitHub repository.
+
+**Thoughts:** I learned a lot about Eleventy, and I am considering rebuilding my portfolio website with Eleventy.
