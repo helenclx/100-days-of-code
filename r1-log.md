@@ -899,5 +899,6 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 **Today's Progress:**
 - Learned to build a portfolio website with Eleventy through Gerard Hynes’s tutorial article on freeCodeCamp.
 - Learned to build a blog with Eleventy through cfjedimaster’s guide and GitHub repository.
+- Listened to Episode 118 of the freeCodeCamp Podcast.
 
 **Thoughts:** I learned a lot about Eleventy, and I am considering rebuilding my portfolio website with Eleventy.
