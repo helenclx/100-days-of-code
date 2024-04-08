@@ -919,4 +919,4 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 
 **Today's Progress:** Started rebuilding my developer portfolio website with Eleventy. The style and layouts of the main portion of the site has been set up, but I still need to replace some of the placeholder content, and I want to rebuild my tech and developer blog as well.
 
-**Thoughts:** Getting hands-on practice of using Eleventy to rebuild my developer portfolio website gave memore confidence in using the static site generator. I am glad to have discovered a tool to dynamically build static websites.
+**Thoughts:** Getting hands-on practice of using Eleventy to rebuild my developer portfolio website gave me more confidence in using the static site generator. I am glad to have discovered a tool to dynamically build static websites.
