@@ -902,3 +902,13 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 - Listened to Episode 118 of the freeCodeCamp Podcast.
 
 **Thoughts:** I learned a lot about Eleventy, and I am considering rebuilding my portfolio website with Eleventy.
+
+---
+
+### Day 96: 7 April 2024. Sunday
+
+**Today's Progress:**
+- Set up Visual Studio Code for better workflow in Nunjucks, by installing extensions and adjusting settings.
+- Researched Eleventy plug-ins, both official and community, to decide which ones I want to use for rebuilding my website with Eleventy.
+
+**Thoughts:** I look forward to finally being able to dynamically build my static websites with Eleventy.
