@@ -923,7 +923,7 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 
 ---
 
-### Day 98: 9 April 2024. TUesday
+### Day 98: 9 April 2024. Tuesday
 
 **Today's Progress:** Finally succeed in rebuilding my developer portfolio website from with Eleventy and deploying to GitHub Pages.
 
@@ -932,3 +932,11 @@ Therefore, I decided to go back to my solution to the project in the legacy curr
 I am glad that I have learned a great tool to build and maintain my static website projects in a dynamic, flexible and efficient manner.
 
 **Link to work:** [Helen Chong's developer portfolio](https://helenclx.github.io/)
+
+---
+
+### Day 99: 10 April 2024. Wednesday
+
+**Today's Progress:** Learned about Eleventy’s WebC template language and used it to refactor some components of my developer portfolio website into WebC components.
+
+**Thoughts:** I am glad that WebC exists to make creating and maintaining site components more efficient, since 11ty users can create components by putting HTML, CSS and JavaScript in the same WebC file.
