@@ -940,3 +940,19 @@ I am glad that I have learned a great tool to build and maintain my static websi
 **Today's Progress:** Learned about Eleventy’s WebC template language and used it to refactor some components of my developer portfolio website into WebC components.
 
 **Thoughts:** I am glad that WebC exists to make creating and maintaining site components more efficient, since 11ty users can create components by putting HTML, CSS and JavaScript in the same WebC file.
+
+---
+
+### Day 100: 11 April 2024. Thursday
+
+The final day of my first round of the challenge! 🎉
+
+**Today's Progress:**
+-  I wrote a blog post on my developer portfolio website about [rebuilding the site with Eleventy](https://helenclx.github.io/blog/posts/2024-04-11-rebuilding-my-developer-portfolio-with-eleventy/).
+- Meanwhile, I listened to Episode 155 of the Scrimba Podcast.
+
+**Thoughts:** This challenge has been a wonderful journey. I am glad I managed to motivate myself to code every day. Through various courses and projects, I have honed my front-end development skills a lot.
+
+Thank you to everyone who has supported me throughout my 100 Days of Code journey, and has interacted with my posts on Twitter, Mastodon, Bluesky and the freeCodeCamp Discord serve, by replying to, liking or reposting.
+
+**Link to work:** [Rebuilding My Developer Portfolio with Eleventy](https://helenclx.github.io/blog/posts/2024-04-11-rebuilding-my-developer-portfolio-with-eleventy/)
