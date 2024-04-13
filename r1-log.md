@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Helen Chong
 
-The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, Wednesday.
+The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, Wednesday. Completed on 11 April 2024, Thursday.
 
 ## Log
 
