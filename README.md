@@ -12,8 +12,8 @@ Record of my #100DaysOfCode challenge.
 
 ## About #100DaysOfCode Challenge
 
-To learn more about the #100DaysOfCode challenge, visit its official website at [www.100daysofcode.com](https://www.100daysofcode.com/).
+To learn more about the #100DaysOfCode challenge, visit [its official website](https://www.100daysofcode.com/).
 
-You can fork the official repository of the #100DaysOfCode challenge [here](https://github.com/kallaway/100-days-of-code).
+You can fork the [official repository of the #100DaysOfCode challenge](https://github.com/kallaway/100-days-of-code).
 
-You can participate in the #100DaysOfCode challenge in freeCodeCamp's official Discord here. Read this article for more details: [#100DaysOfCode Challenge for 2024 – Discord Edition](https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/)
+You can participate in the #100DaysOfCode challenge in [freeCodeCamp's official Discord server](https://discord.gg/freecodecamp). Read this article for more details: [#100DaysOfCode Challenge for 2024 – Discord Edition](https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/)
