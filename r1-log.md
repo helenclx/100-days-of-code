@@ -42,7 +42,7 @@ The log of Round 1 of my #100DaysOfCode challenge. Started on 3 January 2024, We
 - Completed and submitted [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)’s [Birthdays](https://cs50.harvard.edu/x/2024/psets/9/birthdays/) problem.
 - Set up [my own GitHub repository](https://github.com/helenclx/100-days-of-code) for the #100DaysOfCode challenge.
 
-**Thoughts:** It was rather challenging to go back to CS50x and do its assignments after taking a break form the course for a while. My SQL and Flask knowledge got rusty due to rarely using them.
+**Thoughts:** It was rather challenging to go back to CS50x and do its assignments after taking a break from the course for a while. My SQL and Flask knowledge got rusty due to rarely using them.
 
 ---
 
